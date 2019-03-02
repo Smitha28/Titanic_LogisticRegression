@@ -1,7 +1,7 @@
 # Titanic_LogisticRegression
 Code a Logistic Regression Algorithm to predict whether or not a passenger survives Titanic
 
-Click here to view my jupyter notebook interactively: 
+Click here to view my jupyter notebook interactively: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Smitha28/Titanic_LogisticRegression/master)
 
 This project will work through the definition of a Logistic Regression function in Python. After a summary of the equations that will be used, and a brief EDA of the "Titanic" data we will be using, you will be asked to define a number of functions which will, in sum, create a Logistic Regression. A demonstration of sklearn's implementation of Logistic Regression will be executed at the end of the project.
 
